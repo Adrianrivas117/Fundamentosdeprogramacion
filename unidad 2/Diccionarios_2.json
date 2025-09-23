@@ -1,0 +1,42 @@
+{
+  "978-84-376-0494-7": {
+    "título": "Cien años de soledad",
+    "autor": [
+      "Gabriel García Márquez"
+    ],
+    "géneros": [
+      "Realismo mágico",
+      "Novela histórica"
+    ]
+  },
+  "978-84-204-1625-5": {
+    "título": "Don Quijote de la Mancha",
+    "autor": [
+      "Miguel de Cervantes Saavedra"
+    ],
+    "géneros": [
+      "Novela de caballería",
+      "Satira"
+    ]
+  },
+  "978-84-339-7962-7": {
+    "título": "La casa de los espíritus",
+    "autor": [
+      "Isabel Allende"
+    ],
+    "géneros": [
+      "Realismo mágico",
+      "Saga familiar"
+    ]
+  },
+  "978-84-06-12345-6": {
+    "título": "El amor en los tiempos del cólera",
+    "autor": [
+      "Gabriel García Márquez"
+    ],
+    "géneros": [
+      "Novela romántica",
+      "Realismo mágico"
+    ]
+  }
+}
