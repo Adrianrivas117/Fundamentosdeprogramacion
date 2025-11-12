@@ -1,0 +1,1 @@
+Objetivo desarrollar un juego para enseñar a los niños los colores
